@@ -1,5 +1,10 @@
 ## RL-with-CBF
 
+### Install the dependancies 
+
+```
+pip install -r requirements.txt
+```
 
 ### To run the PPO code (tested on Cartpole Environment - discrete action space) 
 
