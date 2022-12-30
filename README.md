@@ -7,7 +7,7 @@
 python ppo.py --track --capture-video 
 ```
 
-Use Wanb to visualise the loss functions and model performance
+Use Wanb library to visualise the loss functions and model performance
 
 ### To test on custom enviroments 
 
