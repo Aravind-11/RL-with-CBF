@@ -6,7 +6,7 @@
 pip install -r requirements.txt
 ```
 
-### To run the PPO code (tested on Cartpole Environment - discrete action space) 
+### To run the PPO code (for discrete action space only) (tested on Cartpole Environment - discrete action space) 
 
 ```
 python ppo.py --track --capture-video 
